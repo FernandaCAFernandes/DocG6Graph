@@ -16,7 +16,6 @@ Após feita a instalação é necessário realizar a importação por CDN. Logo,
 Obs: É também possivel visualizar a versão do G6 utilizando o console.log a seguir: 
 ```
 console.log(G6.Global.version)
-
 ```
 Dados:
 Os dados do G6 são compostos de 2 componentes, nodes e edges. Cada um é composto de duas propriedades, sendo elas:
